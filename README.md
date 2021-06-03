@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![nice](https://user-images.githubusercontent.com/25566347/120713041-04126e80-c4df-11eb-8be7-36c0c9e1365a.gif)
+<img src="https://user-images.githubusercontent.com/25566347/120713041-04126e80-c4df-11eb-8be7-36c0c9e1365a.gif" width=50% height=50%>
