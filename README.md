@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
+<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="400" height="790">
