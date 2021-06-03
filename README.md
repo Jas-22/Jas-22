@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![NGGYU](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif =250x250)
+![NGGYU](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
