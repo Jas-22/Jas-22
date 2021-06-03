@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+![](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
