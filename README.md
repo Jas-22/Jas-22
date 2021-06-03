@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jas-22/Jas-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![NGGYU](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
