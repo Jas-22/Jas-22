@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+A brilliant web developer and instructor with 3 years of well-rounded experience in MERN development, object-oriented and user-centric design, currently full-time student for Mobile application development, seeking Fall 2022 internship. During my career I have covered spectrum of use cases in the field of web development 
 
- <img src="https://user-images.githubusercontent.com/25566347/120713041-04126e80-c4df-11eb-8be7-36c0c9e1365a.gif" width=150% height=200%>
